@@ -8,7 +8,7 @@
 //% weight=2 color=#1174EE icon="\uf25a" block="Grove I2C Touch Sensor"
 //% parts="grove_mpr121"
 namespace grove_mpr121 {
-    const ADDRESS = 0x5A;
+    const ADDRESS = 0x5B;
 
     /**
      * Initialize MPR121 module.
