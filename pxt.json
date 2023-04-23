@@ -11,9 +11,17 @@
         "_locales/de/pxt-calliope-grove-mpr121-jsdoc-strings.json",
         "_locales/de/pxt-calliope-grove-mpr121-strings.json"
     ],
+    "public": false,
+    "targetVersions": {
+        "target": "4.0.30",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/calliope-mini/pxt-calliope-grove-mpr121.git"
-    },
-    "public": false
+    }
 }

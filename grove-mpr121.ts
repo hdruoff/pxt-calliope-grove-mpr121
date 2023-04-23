@@ -2,6 +2,7 @@
  * Functions for the Seeedstudio Grove I2C Touch Sensor.
  *
  * @author Mirek Hancl
+ * changed by Dieter Ruoff
  */
 
 
